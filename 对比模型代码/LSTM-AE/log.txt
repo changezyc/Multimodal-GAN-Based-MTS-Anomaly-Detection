@@ -1,0 +1,17 @@
+SWaT
+========================
+Precision 0.4722
+Recall 0.7091
+F1 Score 0.5669
+
+KDD
+========================
+Precision 0.6162
+Recall 0.3322
+F1 Score 0.4317
+
+CIC-IDS
+========================
+Precision 0.5402
+Recall 0.8471
+F1 Score 0.6597

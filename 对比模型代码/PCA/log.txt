@@ -1,0 +1,23 @@
+SWaT
+========================
+threshold = 29.0
+Accuracy 0.8178
+Precision 0.3458
+Recall 0.5833
+F1 Score 0.4342
+
+KDD
+========================
+threshold = 1.0
+Accuracy 0.2617
+Precision 0.5706
+Recall 0.3258
+F1 Score 0.4148
+
+CIC-IDS
+========================
+threshold = 10.0
+Accuracy 0.3251
+Precision 0.4237
+Recall 0.5274
+F1 Score 0.4699
