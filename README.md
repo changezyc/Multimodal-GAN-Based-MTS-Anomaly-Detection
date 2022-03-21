@@ -1,0 +1,1 @@
+# Multimodal_Generative_Adversarial_Networks_Based_Multivariate_Time_Series_Anomaly_Detection
