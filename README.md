@@ -25,7 +25,7 @@ You will need to specify the network and dataset you want to train and test by m
 ### train
 - dataset = SWAT、KDDCUP99、WADI、CICIDS
 - gpu_id = 0
-- alpha = 0.8
+- alpha = 0.80
 - epochs = 200
 - optimizer: Adam
 - lr_init = 1e-5
